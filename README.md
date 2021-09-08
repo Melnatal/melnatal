@@ -11,10 +11,10 @@ Estou sempre estudando uma nova linguagem.
    
  </div>
 <div style="display: inline_block"><br>
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" src="https://user-images.githubusercontent.com/88938102/132554614-a729a3f3-d20c-40fd-a44b-04800e90e4f0.png" max-width="200px" width="200px" align="center">
+<img align="left" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="left" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="left" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="rigth" src="https://user-images.githubusercontent.com/88938102/132554614-a729a3f3-d20c-40fd-a44b-04800e90e4f0.png" max-width="300px" width="300px" align="center">
   
 ##
   
