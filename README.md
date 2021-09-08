@@ -1,6 +1,7 @@
 <Hello World!> Olá! Eu sou a Mel <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2> 
 
 <img align="right" src="Code typing-bro.png" max-width="400px" width="400px" align="right">
+<img align="right" src="/Gustavo053/Gustavo053/blob/main/Code%20typing-bro.png?raw=true" alt="Code typing-bro.png">
 
 - 🔭 Buscando um estágio na área de programação para treinar meus conhecimentos.
 - 🌱 Fiz o curso CS50 (Computer Science) https://cc50.estudarfora.org.br/  
