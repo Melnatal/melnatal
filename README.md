@@ -2,9 +2,10 @@
 
 
 
-- 🔭 Buscando um estágio na área de programação para treinar meus conhecimentos.
+- 🔭 Buscando uma oportunidade na área de programação para aperfeiçoar e praticar ainda mais meus conhecimentos.
 - 🌱 Fiz o curso CS50 (Computer Science) https://cc50.estudarfora.org.br/  
-- Linguagens: C, C++, Python, HTML5 e CSS3.
+- GrassHopper, FreeCodeCamp...
+- Linguagens: C, C++, Python, HTML5, CSS3, JavaScript
 Estou sempre estudando uma nova linguagem.
 - 💬 Em transição de carreira. 
 - 🏖 Amo praia!😎    
