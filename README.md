@@ -2,10 +2,10 @@
 
 
 
-- 🔭 Buscando uma oportunidade na área de programação para aperfeiçoar e praticar ainda mais meus conhecimentos.
+- 🔭 Dev Junior
 - 🌱 Fiz o curso CS50 (Computer Science) https://cc50.estudarfora.org.br/  
 - GrassHopper, FreeCodeCamp...
-- Linguagens: C, C++, Python, HTML5, CSS3, JavaScript
+- Linguagens: C, C++, Python, HTML5, CSS3, JavaScript, React...
 Estou sempre estudando uma nova linguagem.
 - 💬 Em transição de carreira. 
 - 🏖 Amo praia!😎    
