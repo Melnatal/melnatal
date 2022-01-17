@@ -5,7 +5,7 @@
 - 🔭 Dev Junior
 - 🌱 Fiz o curso CS50 (Computer Science) https://cc50.estudarfora.org.br/  
 - GrassHopper, FreeCodeCamp...
-- Linguagens: C, C++, Python, HTML5, CSS3, JavaScript, React...
+- Linguagens: C, C++, Python, HTML5, CSS3, JavaScript, React... Noções das seguintes ferramentas: Postgresql, Git/GitHub, Spring Tools Suite, Heroku, Netlify..
 Estou sempre estudando uma nova linguagem.
 - 💬 Em transição de carreira. 
 - 🏖 Amo praia!😎    
