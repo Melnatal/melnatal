@@ -23,7 +23,7 @@ Estou sempre estudando uma nova linguagem.
 
 <a href="https://instagram.com/melnatal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      
- <a href="https://www.linkedin.com/in/melina-mel-schmitt-kremer-240902148/" target="_blank"><img src="https://api.linkedin.com/v1/companies/7787763/logo-url?oauth2_access_token=ACESS_TOKEN&format=json" target="_blank"></a>
+<a href="https://www.linkedin.com/in/melina-mel-schmitt-kremer-240902148/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   </div>
   
