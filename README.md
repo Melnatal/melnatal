@@ -10,7 +10,7 @@
 Estou sempre estudando uma nova linguagem.
 - 💬 Em transição de carreira. 
 - 🏖 Amo praia!😎    
-<a class="flex flex" href="https://app.daily.dev/MelNatal"><img src="https://api.daily.dev/devcards/bc62ef95374e4133984f755c308cde11.png?r=kr3" width="400" alt="Melina Schmitt Kremer's Dev Card"/></a>
+
    
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
